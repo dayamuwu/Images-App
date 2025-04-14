@@ -1,0 +1,2 @@
+curl -H "Authorization: LQQjyG5tNOv9zTGEVVNeuBArxZzcSgzEVNpPWOJQ4BdEEIzDLHkwHWM2" \
+ "https://api.pexels.com/v1/search?query=spizella-pusilla"
